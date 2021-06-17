@@ -1,6 +1,9 @@
 body {
     background-color: #ccc;
-    display: inline-block;
+}
+
+.button {
+    text-align: center;
 }
 
 #buttonone {
@@ -14,12 +17,10 @@ body {
 #buttontwo {
     border-radius: 20px;
     box-shadow: rgba(0,0,0,0.1) 0 10px 10px;
-    margin-left: 250px;
     
 }
 
 #buttonthree {
     border-radius: 20px;
     box-shadow: rgba(0,0,0,0.1) 0 10px 10px;
-    margin-left: 500px;
 }
