@@ -7,23 +7,21 @@ body {
 }
 
 #buttonone {
-    border-radius: 20px;
+    border-radius: 25px;
     box-shadow: rgba(0,0,0,0.1) 0 10px 10px;
     padding: 5px;
     margin: 25px;
-
 }
 
-
 #buttontwo {
-    border-radius: 20px;
+    border-radius: 25px;
     box-shadow: rgba(0,0,0,0.1) 0 10px 10px;
     padding: 5px;
     
 }
 
 #buttonthree {
-    border-radius: 20px;
+    border-radius: 25px;
     box-shadow: rgba(0,0,0,0.1) 0 10px 10px;
     padding: 5px;
     margin: 25px;
