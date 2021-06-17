@@ -6,8 +6,14 @@ buttonElement.addEventListener('click', ()=>{
 })
 
 var buttonElement = document.getElementById('buttontwo')
-var Audio = document.getElementById('bloopaudio')
+var Audiotwo = document.getElementById('bloopaudio')
+buttonElement.addEventListener('click', ()=>{
+    Audiotwo.play();
+})
 
 
 var buttonElement = document.getElementById('buttonthree')
-var Audio = document.getElementById('caraudio')
+var Audiothree = document.getElementById('caraudio')
+buttonElement.addEventListener('mouseenter', ()=>{
+    Audiothree.play();
+})
