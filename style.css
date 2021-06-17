@@ -1,19 +1,6 @@
 body {
-    background-color: #fff;
+    background-color: #ccc;
+    display: flex;
 }
 
-#buttonone {
-    text-align: left;
-    border-bottom: 15px dashed #000;
-}
-
-#buttontwo {
-    text-align: center;
-    border-bottom: 15px dashed #000;
-}
-
-#buttonthree {
-    text-align: right;
-    border-bottom: 15px solid #000;
-}
 
