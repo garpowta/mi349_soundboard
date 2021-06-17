@@ -2,17 +2,17 @@ body {
     background-color: #fff;
 }
 
-.buttonone {
+#buttonone {
     text-align: left;
     border-bottom: 15px dashed #000;
 }
 
-.buttontwo {
+#buttontwo {
     text-align: center;
     border-bottom: 15px dashed #000;
 }
 
-.buttonthree {
+#buttonthree {
     text-align: right;
     border-bottom: 15px solid #000;
 }
