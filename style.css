@@ -1,0 +1,20 @@
+body {
+    background: #fff;
+}
+
+section {
+    display: flex;
+}
+
+.buttonone{
+    margin: 30 px;
+
+}
+
+.buttontwo {
+    margin: 30 px;
+}
+
+.buttonthree {
+    margin: 30px;
+}
